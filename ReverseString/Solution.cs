@@ -12,6 +12,7 @@ namespace ReverseString
             for (int i = 0; i < inputText.Length-1; i++)
             {
                 Console.WriteLine("Hello");
+                Console.WriteLine("Hello2");
                 //outputTextArr[i] = inputText.
             }
             
